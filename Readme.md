@@ -1,6 +1,9 @@
 # Flower Shop Web App 🌸
 A modern eCommerce application for selling flower products and services. Now available at https://theflowershop.azurewebsites.net/
 
+    use ID: customer@example.com
+    password: Customer@123
+
 ## Development
 This project was developed from scratch over approximately **30 hours**. It includes features designed to create a smooth shopping experience for customers and efficient management for administrators.
 
