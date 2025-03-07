@@ -1,6 +1,11 @@
 # Flower Shop Web App 🌸
 A modern eCommerce application for selling flower products and services. Now available at https://theflowershop.azurewebsites.net/
 
+---
+
+![screencapture-localhost-5051-2024-11-20-15_19_47](https://github.com/user-attachments/assets/9f6e0845-e786-416d-8c7e-42247a1efa16)
+![screencapture-localhost-5051-Shop-2024-11-20-15_21_22](https://github.com/user-attachments/assets/f3ae3235-1046-4992-aad8-1bb3569e5cd0)
+---
     use ID: customer@example.com
     password: Customer@123
 
@@ -37,11 +42,6 @@ Paused until further applied use cases
 - **Localization**: Support for multiple languages and currencies to expand the reach of the eShop.
 - **Analytics Dashboard**: Add analytics for admins to track sales, customer activity, and other metrics.
 
-
----
-
-![screencapture-localhost-5051-2024-11-20-15_19_47](https://github.com/user-attachments/assets/9f6e0845-e786-416d-8c7e-42247a1efa16)
-![screencapture-localhost-5051-Shop-2024-11-20-15_21_22](https://github.com/user-attachments/assets/f3ae3235-1046-4992-aad8-1bb3569e5cd0)
 ---
 
 ### Closing Section
